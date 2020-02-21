@@ -1,0 +1,23 @@
+body  {
+    background-image: url("https://images-na.ssl-images-amazon.com/images/I/316FSDek9sL._AC_.jpg");
+    background-color: #cccccc;
+    background-size: 100%;
+
+    font-family: 'Cookie' ;
+    /* font-family: 'Satisfy' ; */
+  };
+
+.nav {
+    background-color: black;
+}
+
+.title-invitation{
+    margin: auto 0px;
+    text-align: center;
+}
+
+.image-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
